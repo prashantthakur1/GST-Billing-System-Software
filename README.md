@@ -20,7 +20,7 @@ A desktop GST Billing System developed using Python.
 
 A detailed project report containing the implementation, source code explanation, screenshots, and working of the application is included in:
 
-**Prashant_Thakur_CS_Project_Report.pdf**
+**GST_Billing_System_Project_Report.pdf**
 
 ## Project Status
 
